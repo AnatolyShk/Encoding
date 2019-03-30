@@ -1,0 +1,10 @@
+C:\Users\tolik\source\repos\EncodForm\EncodForm\bin\Debug\EncodForm.exe.config
+C:\Users\tolik\source\repos\EncodForm\EncodForm\bin\Debug\EncodForm.exe
+C:\Users\tolik\source\repos\EncodForm\EncodForm\bin\Debug\EncodForm.pdb
+C:\Users\tolik\source\repos\EncodForm\EncodForm\obj\Debug\EncodForm.csprojAssemblyReference.cache
+C:\Users\tolik\source\repos\EncodForm\EncodForm\obj\Debug\EncodForm.Properties.Resources.resources
+C:\Users\tolik\source\repos\EncodForm\EncodForm\obj\Debug\EncodForm.csproj.GenerateResource.cache
+C:\Users\tolik\source\repos\EncodForm\EncodForm\obj\Debug\EncodForm.csproj.CoreCompileInputs.cache
+C:\Users\tolik\source\repos\EncodForm\EncodForm\obj\Debug\EncodForm.exe
+C:\Users\tolik\source\repos\EncodForm\EncodForm\obj\Debug\EncodForm.pdb
+C:\Users\tolik\source\repos\EncodForm\EncodForm\obj\Debug\EncodForm.Form1.resources
